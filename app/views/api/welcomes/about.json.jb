@@ -1,0 +1,4 @@
+{
+  message: "My favorite language is:",
+  favorit_language: @favorite_language
+}
